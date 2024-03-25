@@ -11,3 +11,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:  
   port: ${PORT:8081}
+
+myName: 한동건
